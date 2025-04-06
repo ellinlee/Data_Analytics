@@ -1,11 +1,13 @@
-# Process Mining
+# Untitled - Time Series Analysis
 
 ## 📄 File Description
-- **Untitled1.ipynb**:
-  - A Jupyter Notebook for process mining using ticket data.
-- **Airpassenger.csv**:
-  - The CSV file containing passenger processing data.
+- **Untitled.ipynb**:
+  - A Jupyter Notebook for analyzing time series data of airline passengers.
+- **AirPassengers_converted.csv**:
+  - The CSV file containing passenger data used for analysis.
+- **AirPassengers_converted.xlsx**:
+  - The Excel version of the same data.
 
 ## 📝 Key Topics
-- Process discovery using the Alpha Miner algorithm
-- Visualizing Petri nets from event logs
+- Decomposing time series into trend, seasonality, and residuals
+- Visualization and stationarity tests
