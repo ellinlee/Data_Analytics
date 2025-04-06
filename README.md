@@ -40,14 +40,14 @@ Each project is presented as an individual Jupyter notebook along with relevant 
    ```
 
 2. Install the required libraries:
-```bash
-pip install pandas numpy matplotlib statsmodels pm4py
-```
+    ```bash
+    pip install pandas numpy matplotlib statsmodels pm4py
+    ```
 
 3. Launch Jupyter Notebook:
-```bash
-jupyter notebook
-```
+    ```bash
+    jupyter notebook
+    ```
 
 4. Open the desired notebook and follow the instructions provided.
 
